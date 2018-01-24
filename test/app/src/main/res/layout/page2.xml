@@ -2,7 +2,11 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< HEAD
     android:background="@color/colorPrimary">
+=======
+    android:background_color="@color/colorPrimary">
+>>>>>>> 09ed44d2e83d1b19ee541797adf7e8edc8511f81
 
     <ScrollView
         android:layout_width="match_parent"

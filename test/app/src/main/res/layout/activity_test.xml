@@ -4,17 +4,24 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.adefault.test.test"
+    tools:context="com.example.adefault.test.MainActivity"
     android:background="@color/colorPrimary">
 
     <TextView
         android:id="@+id/text"
         android:layout_width="wrap_content"
         android:layout_height="129dp"
+<<<<<<< HEAD
         android:textSize="50dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="68dp"
+=======
+
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="86dp"
+>>>>>>> 09ed44d2e83d1b19ee541797adf7e8edc8511f81
         android:layout_x="135dp"
         android:layout_y="144dp"
         android:gravity="center"
@@ -22,20 +29,13 @@
         android:textAppearance="@style/TextAppearance.AppCompat"
         android:visibility="visible" />
 
-    <AdapterViewFlipper
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_alignStart="@+id/text"
-        android:layout_below="@+id/text"
-        android:layout_marginTop="73dp" />
-
     <Button
         android:id="@+id/startButton"
+        android:text="Start"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="128dp"
-        android:text="Button" />
+        android:layout_marginBottom="72dp" />
 
 </RelativeLayout>
