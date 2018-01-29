@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="engineers">
+        <item> Hazzen Chua </item>
+        <item> Low Swee Pin </item>
+        <item> Eng Kiet </item>
+        <item> Yee Kwong </item>
+        <item> Wey Xiang </item>
+        <item> Luis Lopez </item>
+        <item> Andrew Teo </item>
+        <item> Zuo Yuan </item>
+        <item> Kelvin </item>
+    </string-array>
+    
+    
+</resources>
